@@ -9,7 +9,7 @@ under the github usernames `uwseds-test[n]` with the password `test5uwseds`.
 In general, run a test of any functionality by establishing a dummy assignment,
 setup the test users as students and then execute the managment script.
 
-##Peer Review
+## Peer Review
 `peer_review` contains a script to establish issue-based peer reviews for a
 student assignment. In short, the script lists all repositories for a specific
 classroom assignment, uses this to generate a student list, and then assigns
