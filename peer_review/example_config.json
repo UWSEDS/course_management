@@ -1,0 +1,9 @@
+{
+  "ReviewManager" : {
+    "org": "UWSEDS-aut17",
+    "repo_prefix": "test-peer-review-1-",
+    "review_template_file": "example_template.md",
+    "skip_users": ["asford", "jakevdp"],
+    "username": "asford"
+  }
+}
